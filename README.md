@@ -1,7 +1,9 @@
 ## Hi there 👋
- 😄I am junior of programing. Right now I am studing in programing course Gamedev. My target is have a job in IT this target born in me when me is 7 years and now when I am 15 I can realese this dream
-🔭I’m currently working on develop my skills in Unity
-⚡Fun fact:
+ 😄I am passionate developer currently studying game development.🎮 My dream to work in IT was born when I was just 7 years old, and now, at 15, I'm working hard to make it real✨
+ Right now, I'm focused on developing my skills in Unity and building my first game projects.🚀
+ I'm always excited to learn more,improve,grow as a game developer.
+ Let's connect and creat something  awesome!💻🧠
+
 <!--
 **Noctrel/Noctrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
