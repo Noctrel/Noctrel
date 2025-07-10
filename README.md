@@ -2,7 +2,7 @@
 I am junior of programing. Right now I am studing in programing course Gamedev
 
 🔭 I’m currently working on develop my skills in Unity
-!--sd
+
 <!--
 **Noctrel/Noctrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
