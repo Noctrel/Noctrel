@@ -1,8 +1,7 @@
 ## Hi there 👋
-I am junior of programing. Right now I am studing in programing course Gamedev
-
-🔭 I’m currently working on develop my skills in Unity
-
+ 😄I am junior of programing. Right now I am studing in programing course Gamedev. My target is have a job in IT this target born in me when me is 7 years and now when I am 15 I can realese this dream
+🔭I’m currently working on develop my skills in Unity
+⚡Fun fact:
 <!--
 **Noctrel/Noctrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
