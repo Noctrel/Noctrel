@@ -4,7 +4,7 @@
  I'm always excited to learn more,improve,grow as a game developer.
  Let's connect and creat something  awesome!💻🧠
 
-my telegram: https:
+my telegram:[ https:](https://t.me/Good_Dude)
 <!--
 **Noctrel/Noctrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
