@@ -4,8 +4,8 @@
  I'm always excited to learn more,improve,grow as a game developer.
  Let's connect and creat something  awesome!💻🧠
 
-##my [telegram](https://t.me/Good_Dude)
-##my [LinkedIn](https://www.linkedin.com/in/illia-paliychuk-630333374)
+## my [telegram](https://t.me/Good_Dude)
+## my [LinkedIn](https://www.linkedin.com/in/illia-paliychuk-630333374)
 <!--
 **Noctrel/Noctrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
