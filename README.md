@@ -5,6 +5,7 @@
  Let's connect and creat something  awesome!💻🧠
 
 my [telegram](https://t.me/Good_Dude)
+my [LinkedIn].(https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 <!--
 **Noctrel/Noctrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
