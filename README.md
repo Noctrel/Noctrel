@@ -6,7 +6,7 @@
 
 ## 📲 Telegram — https://t.me/Good_Dude
 ## 🌐 LinkedIn — https://www.linkedin.com/in/illia-paliichuk-630333374/
-
+<!--
 [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@Noctrel)
 [![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/Noctrel?tab=followers)
 <!--
