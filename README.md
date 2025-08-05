@@ -9,6 +9,7 @@
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Noctrel&range=last_7_days&langs_count=5&theme=dark)
 
+
 <!--
 **Noctrel/Noctrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
