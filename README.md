@@ -7,8 +7,8 @@
 ## 📲 Telegram — https://t.me/Good_Dude
 ## 🌐 LinkedIn — https://www.linkedin.com/in/illia-paliichuk-630333374/
 
-https://wakatime.com/api/v1/users/@Noctrel/summaries?range=last_7_days
-<!--
+
+
 ** ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Noctrel&range=last_7_days&langs_count=5&theme=dark)
 
 
