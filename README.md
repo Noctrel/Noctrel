@@ -1,4 +1,4 @@
-<h1 align="center">Привіт, я Noctrel 👋</h1>
+<h1 align="center">Привіт, я Illia Paliychuk 👋</h1>
 
 <p align="center">
   🔭 Зараз працюю над Unity-проєктами та вивчаю C#, Blender, Git.<br>
