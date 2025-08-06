@@ -1,15 +1,63 @@
-# Welcome to my profile👋
-##  I'm passionate developer currently studying game development.🎮 My dream to work in IT was born when I was just 7 years old, and now, at 15, I'm working hard to make it real✨
-## Right now, I'm focused on developing my skills in Unity and building my first game projects.🚀
- I'm always excited to learn more,improve,grow as a game developer.
- Let's connect and creat something  awesome!💻🧠
+<h1 align="center">Привіт, я Noctrel 👋</h1>
 
-## 📲 Telegram — https://t.me/Good_Dude
-## 🌐 LinkedIn — https://www.linkedin.com/in/illia-paliichuk-630333374/
+<p align="center">
+  🔭 Зараз працюю над Unity-проєктами та вивчаю C#, Blender, Git.<br>
+  🎯 Ціль: створити гру від початку до релізу з друзями.<br>
+  🧠 Також вивчаю Linux, системи контролю версій, Photon, 3D-моделювання.<br>
+</p>
 
+---
 
+## 💻 Tech Stack
 
- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Noctrel&range=last_7_days&langs_count=5&theme=dark)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## ⏱ Статистика моєї активності
+
+<!--START_SECTION:waka-->
+<!--Цей блок автоматично оновлюється кожного дня-->
+<!--END_SECTION:waka-->
+
+> 💡 Дані беруться з WakaTime: [@Noctrel](https://wakatime.com/@Noctrel)
+
+---
+
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noctrel&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+## 🔥 Стрік активності
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noctrel&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+## 🧩 Мови програмування
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noctrel&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Контакти
+
+- 📬 Telegram: [@Noctrel](https://t.me/Noctrel)
+- 🌐 WakaTime: [@Noctrel](https://wakatime.com/@Noctrel)
+
+---
 
 
 <!--
