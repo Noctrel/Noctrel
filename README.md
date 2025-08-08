@@ -1,4 +1,4 @@
-![6a33a022-27e1-4940-8fbf-33764c558b57](https://github.com/user-attachments/assets/a24d230a-e106-4c05-a706-75556d49eb17)# Welcome to my profile👋
+# Welcome to my profile👋
 
 ##  I'm passionate developer currently studying game development.🎮 My dream to work in IT was born when I was just 7 years old, and now, at 15, I'm working hard to make it real✨
 ## Right now, I'm focused on developing my skills in Unity and building my first game projects.🚀
@@ -7,5 +7,6 @@
 
 ## 📲 Telegram — https://t.me/Good_Dude
 ## 🌐 LinkedIn — https://www.linkedin.com/in/illia-paliichuk-630333374/
+![6a33a022-27e1-4940-8fbf-33764c558b57](https://github.com/user-attachments/assets/a24d230a-e106-4c05-a706-75556d49eb17)
 
 
