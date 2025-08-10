@@ -74,7 +74,7 @@
 <p align="center">
   <a href="https://github.com/Noctrel"><img src="https://img.shields.io/badge/GitHub-Noctrel-181717?style=for-the-badge&logo=github"></a>
   <a href="https://wakatime.com/@Noctrel"><img src="https://img.shields.io/badge/WakaTime-Tracking-blue?style=for-the-badge&logo=wakatime"></a>
-  <a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-Expert-black?style=for-the-badge&logo=unity"></a>
+ 
 </p>
 
 ---
