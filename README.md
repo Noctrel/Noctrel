@@ -26,7 +26,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,git,github,blender,visualstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,git,github,blender,visualstudio,rider" />
 </p>
 
 ---
