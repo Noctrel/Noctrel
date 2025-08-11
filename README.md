@@ -59,29 +59,6 @@
 ---
 
 
-## 📊 Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noctrel&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noctrel&theme=radical" height="180"/>
-</p>
-
----
-
-## 🛰 Активність
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noctrel&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## ⏳ Час у коді
-<p align="center">
-  <a href="https://wakatime.com/@Noctrel">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Noctrel&layout=compact&theme=radical" height="300"/>
-  </a>
-</p>
-
----
 
 ## 📡 Мережеві зв'язки
 <p align="center">
