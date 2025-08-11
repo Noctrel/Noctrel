@@ -45,8 +45,7 @@
 - Multiplayer Game Architecture  
 - Real-Time Synchronization  
 - Gameplay Mechanics & Optimization  
-- Custom Unity Tools Development  
-- 3D Modelling & Asset Integration  
+
 
 ---
 
